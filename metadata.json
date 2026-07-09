@@ -1,0 +1,6 @@
+{
+  "name": "Rudrakash",
+  "description": "A premium e-commerce shopping platform featuring personalized gifts, fashion, electronics, and daily essentials with AI search and intelligent assistants.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
